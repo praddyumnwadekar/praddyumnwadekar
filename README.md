@@ -37,7 +37,6 @@
 
 ### ⚡ Fun Facts
 - 🌙 I debug best after midnight  
-- 🍕 I explain backend logic using food metaphors  
 - 🦸‍♂️ Fixed a prod bug before a long weekend—felt like Iron Man  
 - 😄 `print()` is my temporary tattoo  
 - 📨 I write code better than emails
